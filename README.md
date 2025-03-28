@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karanveer69
+- 👋 Hi, I’m @Karanveer
 - 👀 I’m interested in becoming a software developer till the end of my college .
 - 🌱 I’m currently learning backend development .
 - 💞️ I’m looking to collaborate on various web development projects . 
